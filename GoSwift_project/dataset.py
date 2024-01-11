@@ -11,8 +11,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -38,7 +38,7 @@ data = [
                         "stateOrProvinceCode": "HR",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -115,7 +115,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -142,7 +142,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -150,7 +150,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -158,7 +158,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -209,7 +209,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -226,7 +226,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -243,7 +243,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -260,7 +260,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -277,7 +277,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -294,7 +294,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -311,7 +311,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -328,7 +328,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -345,7 +345,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -362,7 +362,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -374,7 +374,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -394,8 +394,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -421,7 +421,7 @@ data = [
                         "stateOrProvinceCode": "KA",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -483,7 +483,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -510,7 +510,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -518,7 +518,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -526,7 +526,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -571,7 +571,7 @@ data = [
                             "postalCode": "560034",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -588,7 +588,7 @@ data = [
                             "postalCode": "560100",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -607,7 +607,7 @@ data = [
                             "postalCode": "560100",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -626,7 +626,7 @@ data = [
                             "postalCode": "560100",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -643,7 +643,7 @@ data = [
                             "postalCode": "560100",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -660,7 +660,7 @@ data = [
                             "postalCode": "560100",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -677,7 +677,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -694,7 +694,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -711,7 +711,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -728,7 +728,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -745,7 +745,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -757,7 +757,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -777,8 +777,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -804,7 +804,7 @@ data = [
                         "stateOrProvinceCode": "GJ",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -871,7 +871,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -898,7 +898,7 @@ data = [
                     "stateOrProvinceCode": "GJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -906,7 +906,7 @@ data = [
                     "stateOrProvinceCode": "GJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -914,7 +914,7 @@ data = [
                     "stateOrProvinceCode": "GJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -963,7 +963,7 @@ data = [
                             "postalCode": "380028",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -980,7 +980,7 @@ data = [
                             "postalCode": "380009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -997,7 +997,7 @@ data = [
                             "postalCode": "380009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -1014,7 +1014,7 @@ data = [
                             "postalCode": "382213",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1031,7 +1031,7 @@ data = [
                             "postalCode": "382213",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1048,7 +1048,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1065,7 +1065,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1082,7 +1082,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1099,7 +1099,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1116,7 +1116,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -1133,7 +1133,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -1145,7 +1145,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -1165,8 +1165,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -1192,7 +1192,7 @@ data = [
                         "stateOrProvinceCode": "DL",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -1259,7 +1259,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -1286,7 +1286,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -1294,7 +1294,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -1302,7 +1302,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -1351,7 +1351,7 @@ data = [
                             "postalCode": "110088",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -1368,7 +1368,7 @@ data = [
                             "postalCode": "110042",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -1385,7 +1385,7 @@ data = [
                             "postalCode": "110042",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -1402,7 +1402,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1419,7 +1419,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1436,7 +1436,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1453,7 +1453,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1470,7 +1470,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1487,7 +1487,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -1499,7 +1499,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -1519,8 +1519,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -1546,7 +1546,7 @@ data = [
                         "stateOrProvinceCode": "DL",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -1618,7 +1618,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -1645,7 +1645,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -1653,7 +1653,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -1661,7 +1661,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -1710,7 +1710,7 @@ data = [
                             "postalCode": "110009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -1727,7 +1727,7 @@ data = [
                             "postalCode": "110042",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -1744,7 +1744,7 @@ data = [
                             "postalCode": "110042",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -1761,7 +1761,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1778,7 +1778,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1795,7 +1795,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1812,7 +1812,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1829,7 +1829,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -1846,7 +1846,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -1863,7 +1863,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -1875,7 +1875,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -1895,8 +1895,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -1922,7 +1922,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -1990,7 +1990,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -2017,7 +2017,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -2025,7 +2025,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -2033,7 +2033,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryAttempts": 0,
                 "deliverySignatureName": "SIGN",
@@ -2076,7 +2076,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -2095,7 +2095,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -2112,7 +2112,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -2131,7 +2131,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -2148,7 +2148,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -2165,7 +2165,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -2182,7 +2182,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -2199,7 +2199,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -2216,7 +2216,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -2233,7 +2233,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -2250,7 +2250,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -2262,7 +2262,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -2282,8 +2282,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -2309,7 +2309,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -2376,7 +2376,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -2403,7 +2403,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -2411,7 +2411,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -2419,7 +2419,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -2468,7 +2468,7 @@ data = [
                             "postalCode": "400052",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -2487,7 +2487,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -2504,7 +2504,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -2521,7 +2521,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -2538,7 +2538,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -2555,7 +2555,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -2572,7 +2572,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -2589,7 +2589,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -2606,7 +2606,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -2618,7 +2618,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -2638,8 +2638,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -2665,7 +2665,7 @@ data = [
                         "stateOrProvinceCode": "DL",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -2732,7 +2732,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -2759,7 +2759,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -2767,7 +2767,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -2775,7 +2775,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -2824,7 +2824,7 @@ data = [
                             "postalCode": "110087",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -2841,7 +2841,7 @@ data = [
                             "postalCode": "110042",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -2858,7 +2858,7 @@ data = [
                             "postalCode": "110042",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -2875,7 +2875,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -2892,7 +2892,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -2909,7 +2909,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -2926,7 +2926,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -2943,7 +2943,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -2960,7 +2960,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -2972,7 +2972,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -2992,8 +2992,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -3019,7 +3019,7 @@ data = [
                         "stateOrProvinceCode": "DL",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -3097,7 +3097,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -3124,7 +3124,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -3132,7 +3132,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -3140,7 +3140,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -3189,7 +3189,7 @@ data = [
                             "postalCode": "110009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -3206,7 +3206,7 @@ data = [
                             "postalCode": "110042",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -3223,7 +3223,7 @@ data = [
                             "postalCode": "110042",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -3240,7 +3240,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -3257,7 +3257,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -3274,7 +3274,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -3291,7 +3291,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -3308,7 +3308,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -3325,7 +3325,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -3337,7 +3337,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -3357,8 +3357,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -3384,7 +3384,7 @@ data = [
                         "stateOrProvinceCode": "KA",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -3446,7 +3446,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -3473,7 +3473,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -3481,7 +3481,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -3489,7 +3489,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -3538,7 +3538,7 @@ data = [
                             "postalCode": "560038",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -3555,7 +3555,7 @@ data = [
                             "postalCode": "560045",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -3572,7 +3572,7 @@ data = [
                             "postalCode": "560045",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -3589,7 +3589,7 @@ data = [
                             "postalCode": "560045",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -3606,7 +3606,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -3623,7 +3623,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -3640,7 +3640,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -3657,7 +3657,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -3669,7 +3669,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -3689,8 +3689,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -3716,7 +3716,7 @@ data = [
                         "stateOrProvinceCode": "DL",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -3807,7 +3807,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -3834,7 +3834,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -3842,7 +3842,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -3850,7 +3850,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -3901,7 +3901,7 @@ data = [
                             "postalCode": "110027",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -3918,7 +3918,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -3935,7 +3935,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -3952,7 +3952,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -3969,7 +3969,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -3986,7 +3986,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4003,7 +4003,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4020,7 +4020,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4037,7 +4037,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4054,7 +4054,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4071,7 +4071,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -4088,7 +4088,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -4100,7 +4100,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -4120,8 +4120,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -4147,7 +4147,7 @@ data = [
                         "stateOrProvinceCode": "JH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -4209,7 +4209,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -4236,7 +4236,7 @@ data = [
                     "stateOrProvinceCode": "JH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -4244,7 +4244,7 @@ data = [
                     "stateOrProvinceCode": "JH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -4252,7 +4252,7 @@ data = [
                     "stateOrProvinceCode": "JH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -4297,7 +4297,7 @@ data = [
                             "postalCode": "827001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -4314,7 +4314,7 @@ data = [
                             "postalCode": "827004",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -4331,7 +4331,7 @@ data = [
                             "postalCode": "827004",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -4348,7 +4348,7 @@ data = [
                             "postalCode": "834001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4365,7 +4365,7 @@ data = [
                             "postalCode": "834001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -4382,7 +4382,7 @@ data = [
                             "postalCode": "832101",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4399,7 +4399,7 @@ data = [
                             "postalCode": "832101",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4416,7 +4416,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4433,7 +4433,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4450,7 +4450,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -4462,7 +4462,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -4482,8 +4482,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -4509,7 +4509,7 @@ data = [
                         "stateOrProvinceCode": "HR",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -4571,7 +4571,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -4602,7 +4602,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -4610,7 +4610,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -4618,7 +4618,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -4663,7 +4663,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -4680,7 +4680,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4697,7 +4697,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4716,7 +4716,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -4735,7 +4735,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4752,7 +4752,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -4771,7 +4771,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4788,7 +4788,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4807,7 +4807,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -4824,7 +4824,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -4841,7 +4841,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4858,7 +4858,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4875,7 +4875,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4892,7 +4892,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4909,7 +4909,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -4926,7 +4926,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -4938,7 +4938,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -4958,8 +4958,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -4985,7 +4985,7 @@ data = [
                         "stateOrProvinceCode": "UP",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -5058,7 +5058,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -5085,7 +5085,7 @@ data = [
                     "stateOrProvinceCode": "UP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -5093,7 +5093,7 @@ data = [
                     "stateOrProvinceCode": "UP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -5101,7 +5101,7 @@ data = [
                     "stateOrProvinceCode": "UP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -5150,7 +5150,7 @@ data = [
                             "postalCode": "226010",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -5167,7 +5167,7 @@ data = [
                             "postalCode": "226012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -5186,7 +5186,7 @@ data = [
                             "postalCode": "226012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -5203,7 +5203,7 @@ data = [
                             "postalCode": "226012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -5220,7 +5220,7 @@ data = [
                             "postalCode": "226012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -5237,7 +5237,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -5254,7 +5254,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -5271,7 +5271,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -5288,7 +5288,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -5305,7 +5305,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -5322,7 +5322,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -5339,7 +5339,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -5351,7 +5351,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -5371,8 +5371,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -5398,7 +5398,7 @@ data = [
                         "stateOrProvinceCode": "GJ",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -5483,7 +5483,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -5510,7 +5510,7 @@ data = [
                     "stateOrProvinceCode": "GJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -5518,7 +5518,7 @@ data = [
                     "stateOrProvinceCode": "GJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -5526,7 +5526,7 @@ data = [
                     "stateOrProvinceCode": "GJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -5577,7 +5577,7 @@ data = [
                             "postalCode": "380015",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -5594,7 +5594,7 @@ data = [
                             "postalCode": "380009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -5611,7 +5611,7 @@ data = [
                             "postalCode": "380009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -5628,7 +5628,7 @@ data = [
                             "postalCode": "382213",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -5645,7 +5645,7 @@ data = [
                             "postalCode": "382213",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -5662,7 +5662,7 @@ data = [
                             "postalCode": "382213",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -5679,7 +5679,7 @@ data = [
                             "postalCode": "382213",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -5696,7 +5696,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -5713,7 +5713,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -5730,7 +5730,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -5747,7 +5747,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -5764,7 +5764,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -5776,7 +5776,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -5796,8 +5796,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -5823,7 +5823,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -5890,7 +5890,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -5917,7 +5917,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -5925,7 +5925,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -5933,7 +5933,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryAttempts": 0,
                 "deliverySignatureName": "SIGN",
@@ -5976,7 +5976,7 @@ data = [
                             "postalCode": "400604",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -5995,7 +5995,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6012,7 +6012,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6029,7 +6029,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -6048,7 +6048,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6065,7 +6065,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6084,7 +6084,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -6103,7 +6103,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6120,7 +6120,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -6139,7 +6139,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6156,7 +6156,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -6174,7 +6174,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6193,7 +6193,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6210,7 +6210,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -6227,7 +6227,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -6244,7 +6244,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6261,7 +6261,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6278,7 +6278,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6295,7 +6295,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6312,7 +6312,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6329,7 +6329,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6346,7 +6346,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6363,7 +6363,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -6380,7 +6380,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -6392,7 +6392,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -6412,8 +6412,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -6439,7 +6439,7 @@ data = [
                         "stateOrProvinceCode": "TS",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -6506,7 +6506,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -6537,7 +6537,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -6545,7 +6545,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -6553,7 +6553,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "IN_BOND_OR_CAGE",
                 "deliveryLocationDescription": "In bond/cage",
@@ -6598,7 +6598,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -6615,7 +6615,7 @@ data = [
                             "postalCode": "500072",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -6634,7 +6634,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6651,7 +6651,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -6668,7 +6668,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -6685,7 +6685,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -6704,7 +6704,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -6721,7 +6721,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -6740,7 +6740,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6757,7 +6757,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -6776,7 +6776,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -6795,7 +6795,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6812,7 +6812,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -6831,7 +6831,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -6850,7 +6850,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6867,7 +6867,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -6884,7 +6884,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -6903,7 +6903,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6920,7 +6920,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -6937,7 +6937,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6954,7 +6954,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -6971,7 +6971,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -6988,7 +6988,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -7000,7 +7000,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -7020,8 +7020,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -7047,7 +7047,7 @@ data = [
                         "stateOrProvinceCode": "TS",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -7114,7 +7114,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -7141,7 +7141,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -7149,7 +7149,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -7157,7 +7157,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -7202,7 +7202,7 @@ data = [
                             "postalCode": "500033",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -7219,7 +7219,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -7236,7 +7236,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -7253,7 +7253,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -7270,7 +7270,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -7287,7 +7287,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -7304,7 +7304,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -7321,7 +7321,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -7338,7 +7338,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -7355,7 +7355,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -7372,7 +7372,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -7384,7 +7384,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -7404,8 +7404,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -7431,7 +7431,7 @@ data = [
                         "stateOrProvinceCode": "DL",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -7509,7 +7509,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -7536,7 +7536,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -7544,7 +7544,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -7552,7 +7552,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -7601,7 +7601,7 @@ data = [
                             "postalCode": "110009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -7618,7 +7618,7 @@ data = [
                             "postalCode": "110042",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -7635,7 +7635,7 @@ data = [
                             "postalCode": "110042",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -7652,7 +7652,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -7669,7 +7669,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -7686,7 +7686,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -7703,7 +7703,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -7720,7 +7720,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -7737,7 +7737,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -7749,7 +7749,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -7769,8 +7769,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -7796,7 +7796,7 @@ data = [
                         "stateOrProvinceCode": "KA",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -7863,7 +7863,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -7890,7 +7890,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -7898,7 +7898,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -7906,7 +7906,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -7955,7 +7955,7 @@ data = [
                             "postalCode": "560016",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -7972,7 +7972,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -7989,7 +7989,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -8006,7 +8006,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -8023,7 +8023,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -8040,7 +8040,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -8057,7 +8057,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -8069,7 +8069,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -8089,8 +8089,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -8116,7 +8116,7 @@ data = [
                         "stateOrProvinceCode": "UP",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -8183,7 +8183,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -8210,7 +8210,7 @@ data = [
                     "stateOrProvinceCode": "UP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -8218,7 +8218,7 @@ data = [
                     "stateOrProvinceCode": "UP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -8226,7 +8226,7 @@ data = [
                     "stateOrProvinceCode": "UP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -8275,7 +8275,7 @@ data = [
                             "postalCode": "226010",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -8292,7 +8292,7 @@ data = [
                             "postalCode": "226012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -8311,7 +8311,7 @@ data = [
                             "postalCode": "226012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -8328,7 +8328,7 @@ data = [
                             "postalCode": "226012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -8345,7 +8345,7 @@ data = [
                             "postalCode": "226012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -8362,7 +8362,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -8379,7 +8379,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -8396,7 +8396,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -8413,7 +8413,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -8430,7 +8430,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -8447,7 +8447,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -8459,7 +8459,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -8479,8 +8479,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -8506,7 +8506,7 @@ data = [
                         "stateOrProvinceCode": "TS",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -8573,7 +8573,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -8600,7 +8600,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -8608,7 +8608,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -8616,7 +8616,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -8665,7 +8665,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -8682,7 +8682,7 @@ data = [
                             "postalCode": "500019",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -8699,7 +8699,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -8718,7 +8718,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -8735,7 +8735,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -8752,7 +8752,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -8769,7 +8769,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -8786,7 +8786,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -8803,7 +8803,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -8820,7 +8820,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -8837,7 +8837,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -8854,7 +8854,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -8871,7 +8871,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -8888,7 +8888,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -8905,7 +8905,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -8922,7 +8922,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -8934,7 +8934,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -8954,8 +8954,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -8981,7 +8981,7 @@ data = [
                         "stateOrProvinceCode": "TS",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -9043,7 +9043,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -9070,7 +9070,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -9078,7 +9078,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -9086,7 +9086,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -9131,7 +9131,7 @@ data = [
                             "postalCode": "500032",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -9150,7 +9150,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -9167,7 +9167,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -9184,7 +9184,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -9201,7 +9201,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -9218,7 +9218,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -9235,7 +9235,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -9252,7 +9252,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -9269,7 +9269,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -9281,7 +9281,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -9301,8 +9301,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -9328,7 +9328,7 @@ data = [
                         "stateOrProvinceCode": "TS",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -9396,7 +9396,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -9423,7 +9423,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -9431,7 +9431,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -9439,7 +9439,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "IN_BOND_OR_CAGE",
                 "deliveryLocationDescription": "In bond/cage",
@@ -9484,7 +9484,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -9503,7 +9503,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -9520,7 +9520,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -9539,7 +9539,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -9558,7 +9558,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -9575,7 +9575,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -9592,7 +9592,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -9609,7 +9609,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -9626,7 +9626,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -9643,7 +9643,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -9662,7 +9662,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -9674,7 +9674,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -9694,8 +9694,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -9721,7 +9721,7 @@ data = [
                         "stateOrProvinceCode": "KA",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -9788,7 +9788,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -9815,7 +9815,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -9823,7 +9823,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -9831,7 +9831,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -9880,7 +9880,7 @@ data = [
                             "postalCode": "560068",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -9897,7 +9897,7 @@ data = [
                             "postalCode": "560100",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -9914,7 +9914,7 @@ data = [
                             "postalCode": "560100",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -9931,7 +9931,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -9948,7 +9948,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -9965,7 +9965,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -9982,7 +9982,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -9994,7 +9994,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -10014,8 +10014,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -10041,7 +10041,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -10121,7 +10121,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -10148,7 +10148,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -10156,7 +10156,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -10164,7 +10164,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -10211,7 +10211,7 @@ data = [
                             "postalCode": "411014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -10228,7 +10228,7 @@ data = [
                             "postalCode": "412207",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -10245,7 +10245,7 @@ data = [
                             "postalCode": "412207",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -10262,7 +10262,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -10279,7 +10279,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -10296,7 +10296,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -10313,7 +10313,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -10330,7 +10330,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -10347,7 +10347,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -10359,7 +10359,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -10379,8 +10379,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -10406,7 +10406,7 @@ data = [
                         "stateOrProvinceCode": "KA",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -10474,7 +10474,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -10501,7 +10501,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -10509,7 +10509,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -10517,7 +10517,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -10568,7 +10568,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -10585,7 +10585,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -10602,7 +10602,7 @@ data = [
                             "postalCode": "560080",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -10619,7 +10619,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -10636,7 +10636,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -10653,7 +10653,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -10670,7 +10670,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -10687,7 +10687,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -10704,7 +10704,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -10716,7 +10716,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -10736,8 +10736,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -10763,7 +10763,7 @@ data = [
                         "stateOrProvinceCode": "DL",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -10830,7 +10830,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -10857,7 +10857,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -10865,7 +10865,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -10873,7 +10873,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -10922,7 +10922,7 @@ data = [
                             "postalCode": "110049",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -10939,7 +10939,7 @@ data = [
                             "postalCode": "110020",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -10956,7 +10956,7 @@ data = [
                             "postalCode": "110020",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -10973,7 +10973,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -10990,7 +10990,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11007,7 +11007,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11024,7 +11024,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11041,7 +11041,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11058,7 +11058,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -11075,7 +11075,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -11087,7 +11087,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -11107,8 +11107,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -11134,7 +11134,7 @@ data = [
                         "stateOrProvinceCode": "DL",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -11225,7 +11225,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -11252,7 +11252,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -11260,7 +11260,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -11268,7 +11268,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -11319,7 +11319,7 @@ data = [
                             "postalCode": "110027",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -11336,7 +11336,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -11353,7 +11353,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -11370,7 +11370,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -11387,7 +11387,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11404,7 +11404,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11421,7 +11421,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11438,7 +11438,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11455,7 +11455,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11472,7 +11472,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11489,7 +11489,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -11506,7 +11506,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -11518,7 +11518,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -11538,8 +11538,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -11565,7 +11565,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -11638,7 +11638,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -11665,7 +11665,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -11673,7 +11673,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -11681,7 +11681,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -11726,7 +11726,7 @@ data = [
                             "postalCode": "411029",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -11745,7 +11745,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11762,7 +11762,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -11779,7 +11779,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11796,7 +11796,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11813,7 +11813,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11830,7 +11830,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11847,7 +11847,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11864,7 +11864,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11881,7 +11881,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11898,7 +11898,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11915,7 +11915,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11932,7 +11932,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -11949,7 +11949,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -11966,7 +11966,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -11978,7 +11978,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -11998,8 +11998,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -12025,7 +12025,7 @@ data = [
                         "stateOrProvinceCode": "DL",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -12110,7 +12110,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -12137,7 +12137,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -12145,7 +12145,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -12153,7 +12153,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -12204,7 +12204,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -12223,7 +12223,7 @@ data = [
                             "postalCode": "110025",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -12240,7 +12240,7 @@ data = [
                             "postalCode": "110020",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -12257,7 +12257,7 @@ data = [
                             "postalCode": "110020",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -12274,7 +12274,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -12291,7 +12291,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                    
      "arrivalLocation": "FEDEX_FACILITY"
@@ -12309,7 +12309,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -12326,7 +12326,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -12343,7 +12343,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -12360,7 +12360,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -12377,7 +12377,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -12394,7 +12394,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -12411,7 +12411,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -12423,7 +12423,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -12443,8 +12443,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -12470,7 +12470,7 @@ data = [
                         "stateOrProvinceCode": "WB",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -12555,7 +12555,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -12582,7 +12582,7 @@ data = [
                     "stateOrProvinceCode": "WB",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -12590,7 +12590,7 @@ data = [
                     "stateOrProvinceCode": "WB",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -12598,7 +12598,7 @@ data = [
                     "stateOrProvinceCode": "WB",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -12649,7 +12649,7 @@ data = [
                             "postalCode": "700034",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -12666,7 +12666,7 @@ data = [
                             "postalCode": "700088",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -12683,7 +12683,7 @@ data = [
                             "postalCode": "700088",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -12700,7 +12700,7 @@ data = [
                             "postalCode": "700088",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -12717,7 +12717,7 @@ data = [
                             "postalCode": "700088",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -12734,7 +12734,7 @@ data = [
                             "postalCode": "711302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -12751,7 +12751,7 @@ data = [
                             "postalCode": "711302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -12768,7 +12768,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -12785,7 +12785,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -12802,7 +12802,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -12819,7 +12819,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -12831,7 +12831,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -12851,8 +12851,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -12878,7 +12878,7 @@ data = [
                         "stateOrProvinceCode": "TN",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -12952,7 +12952,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -12984,7 +12984,7 @@ data = [
                     "stateOrProvinceCode": "TN",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -12992,7 +12992,7 @@ data = [
                     "stateOrProvinceCode": "TN",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -13000,7 +13000,7 @@ data = [
                     "stateOrProvinceCode": "TN",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -13049,7 +13049,7 @@ data = [
                             "postalCode": "600090",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -13066,7 +13066,7 @@ data = [
                             "postalCode": "600096",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -13083,7 +13083,7 @@ data = [
                             "postalCode": "600096",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -13102,7 +13102,7 @@ data = [
                             "postalCode": "600096",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -13119,7 +13119,7 @@ data = [
                             "postalCode": "600096",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -13136,7 +13136,7 @@ data = [
                             "postalCode": "600096",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -13153,7 +13153,7 @@ data = [
                             "postalCode": "600096",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -13170,7 +13170,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -13187,7 +13187,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -13204,7 +13204,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -13221,7 +13221,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -13238,7 +13238,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -13257,7 +13257,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -13269,7 +13269,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -13289,8 +13289,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -13316,7 +13316,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -13383,7 +13383,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -13410,7 +13410,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -13418,7 +13418,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -13426,7 +13426,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -13475,7 +13475,7 @@ data = [
                             "postalCode": "400071",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -13492,7 +13492,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -13509,7 +13509,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -13526,7 +13526,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -13543,7 +13543,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -13560,7 +13560,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -13577,7 +13577,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -13594,7 +13594,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -13611,7 +13611,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -13623,7 +13623,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -13643,8 +13643,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -13670,7 +13670,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -13756,7 +13756,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -13783,7 +13783,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -13791,7 +13791,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -13799,7 +13799,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -13850,7 +13850,7 @@ data = [
                             "postalCode": "440010",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -13867,7 +13867,7 @@ data = [
                             "postalCode": "440027",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -13884,7 +13884,7 @@ data = [
                             "postalCode": "440027",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -13901,7 +13901,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -13918,7 +13918,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -13935,7 +13935,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -13952,7 +13952,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -13969,7 +13969,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -13986,7 +13986,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -14003,7 +14003,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -14020,7 +14020,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -14032,7 +14032,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -14052,8 +14052,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -14079,7 +14079,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -14159,7 +14159,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -14186,7 +14186,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -14194,7 +14194,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -14202,7 +14202,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -14249,7 +14249,7 @@ data = [
                             "postalCode": "400004",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -14266,7 +14266,7 @@ data = [
                             "postalCode": "400012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -14283,7 +14283,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -14300,7 +14300,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -14317,7 +14317,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -14334,7 +14334,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -14351,7 +14351,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -14368,7 +14368,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -14385,7 +14385,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -14402,7 +14402,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -14414,7 +14414,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -14434,8 +14434,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -14461,7 +14461,7 @@ data = [
                         "stateOrProvinceCode": "KA",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -14528,7 +14528,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -14555,7 +14555,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -14563,7 +14563,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -14571,7 +14571,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -14620,7 +14620,7 @@ data = [
                             "postalCode": "560103",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -14637,7 +14637,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -14654,7 +14654,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -14671,7 +14671,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -14688,7 +14688,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -14705,7 +14705,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -14722,7 +14722,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -14734,7 +14734,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -14754,8 +14754,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -14781,7 +14781,7 @@ data = [
                         "stateOrProvinceCode": "KA",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -14843,7 +14843,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -14870,7 +14870,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -14878,7 +14878,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -14886,7 +14886,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -14931,7 +14931,7 @@ data = [
                             "postalCode": "570004",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -14948,7 +14948,7 @@ data = [
                             "postalCode": "570018",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -14965,7 +14965,7 @@ data = [
                             "postalCode": "570018",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -14982,7 +14982,7 @@ data = [
                             "postalCode": "570018",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -14999,7 +14999,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -15016,7 +15016,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -15033,7 +15033,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -15050,7 +15050,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -15062,7 +15062,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -15082,8 +15082,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -15109,7 +15109,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -15176,7 +15176,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -15203,7 +15203,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -15211,7 +15211,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -15219,7 +15219,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -15268,7 +15268,7 @@ data = [
                             "postalCode": "400054",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -15285,7 +15285,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -15302,7 +15302,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -15319,7 +15319,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -15338,7 +15338,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -15355,7 +15355,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -15372,7 +15372,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -15389,7 +15389,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -15406,7 +15406,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -15423,7 +15423,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -15440,7 +15440,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -15457,7 +15457,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -15469,7 +15469,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -15489,8 +15489,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -15516,7 +15516,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -15583,7 +15583,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -15614,7 +15614,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -15622,7 +15622,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -15630,7 +15630,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "SHIPPING_RECEIVING",
                 "deliveryLocationDescription": "Shipping/Receiving",
@@ -15679,7 +15679,7 @@ data = [
                             "postalCode": "411006",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -15696,7 +15696,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -15713,7 +15713,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -15730,7 +15730,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -15747,7 +15747,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -15764,7 +15764,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -15781,7 +15781,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -15798,7 +15798,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -15815,7 +15815,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -15832,7 +15832,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -15849,7 +15849,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -15866,7 +15866,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -15883,7 +15883,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -15895,7 +15895,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -15915,8 +15915,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -15942,7 +15942,7 @@ data = [
                         "stateOrProvinceCode": "GJ",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -16004,7 +16004,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -16031,7 +16031,7 @@ data = [
                     "stateOrProvinceCode": "GJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -16039,7 +16039,7 @@ data = [
                     "stateOrProvinceCode": "GJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -16047,7 +16047,7 @@ data = [
                     "stateOrProvinceCode": "GJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -16092,7 +16092,7 @@ data = [
                             "postalCode": "390005",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -16111,7 +16111,7 @@ data = [
                             "postalCode": "390005",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16128,7 +16128,7 @@ data = [
                             "postalCode": "390005",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -16145,7 +16145,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16162,7 +16162,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16179,7 +16179,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16196,7 +16196,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16213,7 +16213,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -16230,7 +16230,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -16242,7 +16242,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -16262,8 +16262,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -16289,7 +16289,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -16356,7 +16356,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -16383,7 +16383,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -16391,7 +16391,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -16399,7 +16399,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -16448,7 +16448,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -16465,7 +16465,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -16482,7 +16482,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -16499,7 +16499,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16516,7 +16516,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16533,7 +16533,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16550,7 +16550,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16567,7 +16567,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16584,7 +16584,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16601,7 +16601,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16618,7 +16618,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -16635,7 +16635,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -16647,7 +16647,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -16667,8 +16667,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -16694,7 +16694,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -16779,7 +16779,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -16806,7 +16806,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -16814,7 +16814,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -16822,7 +16822,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -16873,7 +16873,7 @@ data = [
                             "postalCode": "440022",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -16890,7 +16890,7 @@ data = [
                             "postalCode": "440027",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -16907,7 +16907,7 @@ data = [
                             "postalCode": "440027",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -16924,7 +16924,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16941,7 +16941,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16958,7 +16958,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16975,7 +16975,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -16992,7 +16992,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -17009,7 +17009,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -17026,7 +17026,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -17043,7 +17043,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -17055,7 +17055,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -17075,8 +17075,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -17102,7 +17102,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -17164,7 +17164,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -17191,7 +17191,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -17199,7 +17199,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -17207,7 +17207,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -17252,7 +17252,7 @@ data = [
                             "postalCode": "411014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -17271,7 +17271,7 @@ data = [
                             "postalCode": "412207",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -17288,7 +17288,7 @@ data = [
                             "postalCode": "412207",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -17305,7 +17305,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -17322,7 +17322,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -17339,7 +17339,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -17356,7 +17356,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -17373,7 +17373,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -17390,7 +17390,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -17402,7 +17402,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -17422,8 +17422,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -17449,7 +17449,7 @@ data = [
                         "stateOrProvinceCode": "DL",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -17521,7 +17521,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -17552,7 +17552,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -17560,7 +17560,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -17568,7 +17568,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -17617,7 +17617,7 @@ data = [
                             "postalCode": "110007",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -17634,7 +17634,7 @@ data = [
                             "postalCode": "110042",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -17651,7 +17651,7 @@ data = [
                             "postalCode": "110042",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -17670,7 +17670,7 @@ data = [
                             "postalCode": "110042",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -17687,7 +17687,7 @@ data = [
                             "postalCode": "110042",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -17704,7 +17704,7 @@ data = [
                             "postalCode": "110042",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -17721,7 +17721,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -17738,7 +17738,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -17755,7 +17755,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -17772,7 +17772,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -17789,7 +17789,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -17806,7 +17806,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -17823,7 +17823,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -17835,7 +17835,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -17855,8 +17855,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -17882,7 +17882,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -17949,7 +17949,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -17976,7 +17976,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -17984,7 +17984,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -17992,7 +17992,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -18037,7 +18037,7 @@ data = [
                             "postalCode": "400025",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -18054,7 +18054,7 @@ data = [
                             "postalCode": "400012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -18071,7 +18071,7 @@ data = [
                             "postalCode": "400012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -18088,7 +18088,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18105,7 +18105,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18122,7 +18122,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18139,7 +18139,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18156,7 +18156,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18173,7 +18173,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18190,7 +18190,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -18202,7 +18202,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -18222,8 +18222,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -18249,7 +18249,7 @@ data = [
                         "stateOrProvinceCode": "TS",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -18321,7 +18321,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -18348,7 +18348,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -18356,7 +18356,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -18364,7 +18364,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -18409,7 +18409,7 @@ data = [
                             "postalCode": "500039",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -18426,7 +18426,7 @@ data = [
                             "postalCode": "500044",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -18445,7 +18445,7 @@ data = [
                             "postalCode": "500039",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18462,7 +18462,7 @@ data = [
                             "postalCode": "500039",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -18480,7 +18480,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18497,7 +18497,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18514,7 +18514,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18531,7 +18531,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18548,7 +18548,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18565,7 +18565,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -18582,7 +18582,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -18594,7 +18594,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -18614,8 +18614,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -18641,7 +18641,7 @@ data = [
                         "stateOrProvinceCode": "TS",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -18708,7 +18708,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -18735,7 +18735,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -18743,7 +18743,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -18751,7 +18751,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -18796,7 +18796,7 @@ data = [
                             "postalCode": "500075",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -18813,7 +18813,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -18830,7 +18830,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -18847,7 +18847,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18864,7 +18864,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18881,7 +18881,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18898,7 +18898,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -18915,7 +18915,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -18932,7 +18932,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -18944,7 +18944,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -18964,8 +18964,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -18991,7 +18991,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -19058,7 +19058,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -19089,7 +19089,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -19097,7 +19097,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -19105,7 +19105,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -19154,7 +19154,7 @@ data = [
                             "postalCode": "440011",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -19171,7 +19171,7 @@ data = [
                             "postalCode": "440027",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -19188,7 +19188,7 @@ data = [
                             "postalCode": "440027",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -19205,7 +19205,7 @@ data = [
                             "postalCode": "440027",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -19224,7 +19224,7 @@ data = [
                             "postalCode": "440027",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -19241,7 +19241,7 @@ data = [
                             "postalCode": "440027",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -19258,7 +19258,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -19275,7 +19275,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -19292,7 +19292,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -19309,7 +19309,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -19326,7 +19326,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -19343,7 +19343,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -19360,7 +19360,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -19377,7 +19377,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -19394,7 +19394,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -19406,7 +19406,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -19426,8 +19426,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -19453,7 +19453,7 @@ data = [
                         "stateOrProvinceCode": "HR",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -19515,7 +19515,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -19542,7 +19542,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -19550,7 +19550,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -19558,7 +19558,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -19603,7 +19603,7 @@ data = [
                             "postalCode": "122018",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -19622,7 +19622,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -19639,7 +19639,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -19656,7 +19656,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -19675,7 +19675,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -19692,7 +19692,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -19711,7 +19711,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -19728,7 +19728,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -19745,7 +19745,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -19762,7 +19762,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -19779,7 +19779,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -19796,7 +19796,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -19813,7 +19813,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -19830,7 +19830,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -19842,7 +19842,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -19862,8 +19862,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -19889,7 +19889,7 @@ data = [
                         "stateOrProvinceCode": "KA",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -19956,7 +19956,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -19983,7 +19983,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -19991,7 +19991,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -19999,7 +19999,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -20048,7 +20048,7 @@ data = [
                             "postalCode": "560047",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -20065,7 +20065,7 @@ data = [
                             "postalCode": "560045",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -20082,7 +20082,7 @@ data = [
                             "postalCode": "560045",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -20099,7 +20099,7 @@ data = [
                             "postalCode": "560045",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -20116,7 +20116,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -20133,7 +20133,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -20150,7 +20150,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -20167,7 +20167,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -20179,7 +20179,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -20199,8 +20199,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -20226,7 +20226,7 @@ data = [
                         "stateOrProvinceCode": "KA",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -20294,7 +20294,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -20321,7 +20321,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -20329,7 +20329,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -20337,7 +20337,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -20386,7 +20386,7 @@ data = [
                             "postalCode": "560038",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -20403,7 +20403,7 @@ data = [
                             "postalCode": "560045",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -20420,7 +20420,7 @@ data = [
                             "postalCode": "560045",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -20437,7 +20437,7 @@ data = [
                             "postalCode": "560045",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -20454,7 +20454,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -20471,7 +20471,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -20488,7 +20488,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -20500,7 +20500,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     },
@@ -20517,7 +20517,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     }
@@ -20537,8 +20537,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -20564,7 +20564,7 @@ data = [
                         "stateOrProvinceCode": "CT",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -20631,7 +20631,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -20658,7 +20658,7 @@ data = [
                     "stateOrProvinceCode": "CT",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -20666,7 +20666,7 @@ data = [
                     "stateOrProvinceCode": "CT",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -20674,7 +20674,7 @@ data = [
                     "stateOrProvinceCode": "CT",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -20719,7 +20719,7 @@ data = [
                             "postalCode": "491441",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -20738,7 +20738,7 @@ data = [
                             "postalCode": "492001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -20755,7 +20755,7 @@ data = [
                             "postalCode": "492001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -20772,7 +20772,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -20789,7 +20789,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -20806,7 +20806,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -20823,7 +20823,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -20840,7 +20840,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -20857,7 +20857,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -20869,7 +20869,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -20889,8 +20889,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -20916,7 +20916,7 @@ data = [
                         "stateOrProvinceCode": "WB",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -20983,7 +20983,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -21010,7 +21010,7 @@ data = [
                     "stateOrProvinceCode": "WB",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -21018,7 +21018,7 @@ data = [
                     "stateOrProvinceCode": "WB",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -21026,7 +21026,7 @@ data = [
                     "stateOrProvinceCode": "WB",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -21075,7 +21075,7 @@ data = [
                             "postalCode": "700017",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -21092,7 +21092,7 @@ data = [
                             "postalCode": "700016",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -21109,7 +21109,7 @@ data = [
                             "postalCode": "700016",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -21126,7 +21126,7 @@ data = [
                             "postalCode": "700088",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -21143,7 +21143,7 @@ data = [
                             "postalCode": "700088",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -21160,7 +21160,7 @@ data = [
                             "postalCode": "711302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -21177,7 +21177,7 @@ data = [
                             "postalCode": "711302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -21194,7 +21194,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -21211,7 +21211,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -21228,7 +21228,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -21245,7 +21245,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -21262,7 +21262,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -21274,7 +21274,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -21294,8 +21294,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -21321,7 +21321,7 @@ data = [
                         "stateOrProvinceCode": "DL",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -21406,7 +21406,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -21433,7 +21433,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -21441,7 +21441,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -21449,7 +21449,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -21500,7 +21500,7 @@ data = [
                             "postalCode": "110048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -21517,7 +21517,7 @@ data = [
                             "postalCode": "110020",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -21534,7 +21534,7 @@ data = [
                             "postalCode": "110020",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -21551,7 +21551,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -21568,7 +21568,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -21585,7 +21585,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -21602,7 +21602,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -21619,7 +21619,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -21636,7 +21636,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -21648,7 +21648,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -21668,8 +21668,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -21695,7 +21695,7 @@ data = [
                         "stateOrProvinceCode": "KA",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -21757,7 +21757,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -21784,7 +21784,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -21792,7 +21792,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -21800,7 +21800,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -21849,7 +21849,7 @@ data = [
                             "postalCode": "560001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -21866,7 +21866,7 @@ data = [
                             "postalCode": "560045",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -21883,7 +21883,7 @@ data = [
                             "postalCode": "560045",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -21900,7 +21900,7 @@ data = [
                             "postalCode": "560045",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -21917,7 +21917,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -21934,7 +21934,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -21951,7 +21951,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -21968,7 +21968,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -21980,7 +21980,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -22000,8 +22000,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -22027,7 +22027,7 @@ data = [
                         "stateOrProvinceCode": "MP",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -22107,7 +22107,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -22134,7 +22134,7 @@ data = [
                     "stateOrProvinceCode": "MP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -22142,7 +22142,7 @@ data = [
                     "stateOrProvinceCode": "MP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -22150,7 +22150,7 @@ data = [
                     "stateOrProvinceCode": "MP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -22201,7 +22201,7 @@ data = [
                             "postalCode": "452001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -22218,7 +22218,7 @@ data = [
                             "postalCode": "452001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -22235,7 +22235,7 @@ data = [
                             "postalCode": "452001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -22252,7 +22252,7 @@ data = [
                             "postalCode": "453771",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -22269,7 +22269,7 @@ data = [
                             "postalCode": "453771",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -22286,7 +22286,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -22303,7 +22303,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -22320,7 +22320,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -22337,7 +22337,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -22354,7 +22354,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -22371,7 +22371,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -22383,7 +22383,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -22403,8 +22403,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -22430,7 +22430,7 @@ data = [
                         "stateOrProvinceCode": "TS",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -22497,7 +22497,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -22524,7 +22524,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -22532,7 +22532,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -22540,7 +22540,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -22585,7 +22585,7 @@ data = [
                             "postalCode": "500081",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -22604,7 +22604,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -22621,7 +22621,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -22640,7 +22640,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -22659,7 +22659,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -22676,7 +22676,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -22695,7 +22695,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -22714,7 +22714,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -22731,7 +22731,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -22748,7 +22748,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -22765,7 +22765,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -22782,7 +22782,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -22799,7 +22799,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -22816,7 +22816,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -22833,7 +22833,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -22850,7 +22850,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -22862,7 +22862,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -22882,8 +22882,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -22909,7 +22909,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -22989,7 +22989,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -23016,7 +23016,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -23024,7 +23024,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -23032,7 +23032,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "SHIPPING_RECEIVING",
                 "deliveryLocationDescription": "Shipping/Receiving",
@@ -23083,7 +23083,7 @@ data = [
                             "postalCode": "400001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -23100,7 +23100,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23117,7 +23117,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23134,7 +23134,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23151,7 +23151,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23168,7 +23168,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23185,7 +23185,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23202,7 +23202,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23219,7 +23219,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23236,7 +23236,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23253,7 +23253,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -23270,7 +23270,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -23282,7 +23282,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -23302,8 +23302,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -23329,7 +23329,7 @@ data = [
                         "stateOrProvinceCode": "DL",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -23403,7 +23403,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -23435,7 +23435,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -23443,7 +23443,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -23451,7 +23451,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -23500,7 +23500,7 @@ data = [
                             "postalCode": "110029",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -23517,7 +23517,7 @@ data = [
                             "postalCode": "110020",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -23536,7 +23536,7 @@ data = [
                             "postalCode": "110020",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -23553,7 +23553,7 @@ data = [
                             "postalCode": "110020",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -23570,7 +23570,7 @@ data = [
                             "postalCode": "110020",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -23589,7 +23589,7 @@ data = [
                             "postalCode": "110020",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -23606,7 +23606,7 @@ data = [
                             "postalCode": "110037",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23623,7 +23623,7 @@ data = [
                             "postalCode": "110037",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23640,7 +23640,7 @@ data = [
                             "postalCode": "110037",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23657,7 +23657,7 @@ data = [
                             "postalCode": "110037",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23674,7 +23674,7 @@ data = [
                             "postalCode": "110037",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -23691,7 +23691,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23708,7 +23708,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23725,7 +23725,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -23742,7 +23742,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -23761,7 +23761,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -23773,7 +23773,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -23793,8 +23793,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -23820,7 +23820,7 @@ data = [
                         "stateOrProvinceCode": "TS",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -23887,7 +23887,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -23914,7 +23914,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -23922,7 +23922,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -23930,7 +23930,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -23975,7 +23975,7 @@ data = [
                             "postalCode": "500033",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -23992,7 +23992,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -24009,7 +24009,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -24028,7 +24028,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -24045,7 +24045,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -24062,7 +24062,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -24079,7 +24079,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -24096,7 +24096,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -24113,7 +24113,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -24130,7 +24130,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -24147,7 +24147,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -24159,7 +24159,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -24179,8 +24179,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -24206,7 +24206,7 @@ data = [
                         "stateOrProvinceCode": "TS",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -24268,7 +24268,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -24295,7 +24295,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -24303,7 +24303,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -24311,7 +24311,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "IN_BOND_OR_CAGE",
                 "deliveryLocationDescription": "In bond/cage",
@@ -24356,7 +24356,7 @@ data = [
                             "postalCode": "500049",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -24375,7 +24375,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -24392,7 +24392,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -24409,7 +24409,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -24426,7 +24426,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -24443,7 +24443,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -24460,7 +24460,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -24477,7 +24477,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -24494,7 +24494,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -24506,7 +24506,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -24526,8 +24526,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -24553,7 +24553,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -24634,7 +24634,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -24661,7 +24661,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -24669,7 +24669,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -24677,7 +24677,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -24728,7 +24728,7 @@ data = [
                             "postalCode": "411001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -24745,7 +24745,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -24762,7 +24762,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -24779,7 +24779,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -24796,7 +24796,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -24813,7 +24813,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -24830,7 +24830,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -24847,7 +24847,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -24864,7 +24864,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -24881,7 +24881,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -24898,7 +24898,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -24910,7 +24910,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -24930,8 +24930,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -24957,7 +24957,7 @@ data = [
                         "stateOrProvinceCode": "GJ",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -25019,7 +25019,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -25046,7 +25046,7 @@ data = [
                     "stateOrProvinceCode": "GJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -25054,7 +25054,7 @@ data = [
                     "stateOrProvinceCode": "GJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -25062,7 +25062,7 @@ data = [
                     "stateOrProvinceCode": "GJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -25107,7 +25107,7 @@ data = [
                             "postalCode": "380015",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -25126,7 +25126,7 @@ data = [
                             "postalCode": "380009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -25145,7 +25145,7 @@ data = [
                             "postalCode": "380009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -25162,7 +25162,7 @@ data = [
                             "postalCode": "380009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -25179,7 +25179,7 @@ data = [
                             "postalCode": "380009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -25198,7 +25198,7 @@ data = [
                             "postalCode": "380009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -25215,7 +25215,7 @@ data = [
                             "postalCode": "380009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -25232,7 +25232,7 @@ data = [
                             "postalCode": "380009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -25249,7 +25249,7 @@ data = [
                             "postalCode": "380009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -25266,7 +25266,7 @@ data = [
                             "postalCode": "382213",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -25283,7 +25283,7 @@ data = [
                             "postalCode": "382213",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -25300,7 +25300,7 @@ data = [
                             "postalCode": "382213",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -25317,7 +25317,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -25334,7 +25334,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -25351,7 +25351,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -25368,7 +25368,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -25385,7 +25385,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -25402,7 +25402,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -25414,7 +25414,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -25434,8 +25434,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -25461,7 +25461,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -25528,7 +25528,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -25559,7 +25559,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -25567,7 +25567,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -25575,7 +25575,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -25624,7 +25624,7 @@ data = [
                             "postalCode": "400054",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -25641,7 +25641,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -25660,7 +25660,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -25677,7 +25677,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -25694,7 +25694,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -25711,7 +25711,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -25730,7 +25730,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -25747,7 +25747,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -25764,7 +25764,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -25781,7 +25781,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -25798,7 +25798,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -25815,7 +25815,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -25832,7 +25832,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -25849,7 +25849,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -25861,7 +25861,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -25881,8 +25881,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -25908,7 +25908,7 @@ data = [
                         "stateOrProvinceCode": "RJ",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -25988,7 +25988,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -26015,7 +26015,7 @@ data = [
                     "stateOrProvinceCode": "RJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -26023,7 +26023,7 @@ data = [
                     "stateOrProvinceCode": "RJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -26031,7 +26031,7 @@ data = [
                     "stateOrProvinceCode": "RJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -26082,7 +26082,7 @@ data = [
                             "postalCode": "313001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -26099,7 +26099,7 @@ data = [
                             "postalCode": "313001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -26118,7 +26118,7 @@ data = [
                             "postalCode": "313001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -26135,7 +26135,7 @@ data = [
                             "postalCode": "313001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -26152,7 +26152,7 @@ data = [
                             "postalCode": "302012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26169,7 +26169,7 @@ data = [
                             "postalCode": "302012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26186,7 +26186,7 @@ data = [
                             "postalCode": "302019",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26203,7 +26203,7 @@ data = [
                             "postalCode": "302019",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26220,7 +26220,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26237,7 +26237,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26254,7 +26254,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26271,7 +26271,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26288,7 +26288,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26305,7 +26305,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26322,7 +26322,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26339,7 +26339,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -26356,7 +26356,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -26368,7 +26368,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -26388,8 +26388,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -26415,7 +26415,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -26501,7 +26501,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -26528,7 +26528,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -26536,7 +26536,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -26544,7 +26544,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -26591,7 +26591,7 @@ data = [
                             "postalCode": "411029",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -26610,7 +26610,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26627,7 +26627,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -26644,7 +26644,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26661,7 +26661,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26678,7 +26678,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26695,7 +26695,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26712,7 +26712,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26729,7 +26729,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26746,7 +26746,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26763,7 +26763,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26780,7 +26780,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26797,7 +26797,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -26814,7 +26814,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -26831,7 +26831,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -26843,7 +26843,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -26863,8 +26863,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -26890,7 +26890,7 @@ data = [
                         "stateOrProvinceCode": "HR",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -26957,7 +26957,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -26984,7 +26984,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -26992,7 +26992,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -27000,7 +27000,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -27049,7 +27049,7 @@ data = [
                             "postalCode": "122002",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -27066,7 +27066,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -27083,7 +27083,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27100,7 +27100,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -27117,7 +27117,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27134,7 +27134,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27151,7 +27151,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27168,7 +27168,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27185,7 +27185,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -27202,7 +27202,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -27214,7 +27214,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -27234,8 +27234,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -27261,7 +27261,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -27323,7 +27323,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -27350,7 +27350,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -27358,7 +27358,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -27366,7 +27366,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryAttempts": 0,
                 "deliverySignatureName": "SIGN",
@@ -27409,7 +27409,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -27428,7 +27428,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27445,7 +27445,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -27464,7 +27464,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -27481,7 +27481,7 @@ data = [
                             "postalCode": "400053",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -27498,7 +27498,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -27515,7 +27515,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27532,7 +27532,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27549,7 +27549,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27566,7 +27566,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27583,7 +27583,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -27600,7 +27600,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -27612,7 +27612,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -27632,8 +27632,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -27659,7 +27659,7 @@ data = [
                         "stateOrProvinceCode": "UP",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -27726,7 +27726,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -27753,7 +27753,7 @@ data = [
                     "stateOrProvinceCode": "UP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -27761,7 +27761,7 @@ data = [
                     "stateOrProvinceCode": "UP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -27769,7 +27769,7 @@ data = [
                     "stateOrProvinceCode": "UP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -27818,7 +27818,7 @@ data = [
                             "postalCode": "201310",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -27837,7 +27837,7 @@ data = [
                             "postalCode": "201301",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27856,7 +27856,7 @@ data = [
                             "postalCode": "201301",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27873,7 +27873,7 @@ data = [
                             "postalCode": "201301",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -27892,7 +27892,7 @@ data = [
                             "postalCode": "201301",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -27909,7 +27909,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27926,7 +27926,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27943,7 +27943,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27960,7 +27960,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27977,7 +27977,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -27994,7 +27994,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -28006,7 +28006,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -28026,8 +28026,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -28053,7 +28053,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -28120,7 +28120,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -28147,7 +28147,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -28155,7 +28155,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -28163,7 +28163,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -28212,7 +28212,7 @@ data = [
                             "postalCode": "400089",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -28229,7 +28229,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -28246,7 +28246,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -28263,7 +28263,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -28280,7 +28280,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -28297,7 +28297,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -28314,7 +28314,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -28331,7 +28331,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -28348,7 +28348,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -28360,7 +28360,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -28380,8 +28380,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -28407,7 +28407,7 @@ data = [
                         "stateOrProvinceCode": "KA",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -28469,7 +28469,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -28496,7 +28496,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -28504,7 +28504,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -28512,7 +28512,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -28563,7 +28563,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -28580,7 +28580,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -28597,7 +28597,7 @@ data = [
                             "postalCode": "560080",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -28614,7 +28614,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -28631,7 +28631,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -28648,7 +28648,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -28665,7 +28665,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -28682,7 +28682,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -28699,7 +28699,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -28711,7 +28711,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -28731,8 +28731,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -28758,7 +28758,7 @@ data = [
                         "stateOrProvinceCode": "TN",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -28835,7 +28835,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -28866,7 +28866,7 @@ data = [
                     "stateOrProvinceCode": "TN",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -28874,7 +28874,7 @@ data = [
                     "stateOrProvinceCode": "TN",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -28882,7 +28882,7 @@ data = [
                     "stateOrProvinceCode": "TN",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -28929,7 +28929,7 @@ data = [
                             "postalCode": "613007",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -28948,7 +28948,7 @@ data = [
                             "postalCode": "620009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -28967,7 +28967,7 @@ data = [
                             "postalCode": "620009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -28986,7 +28986,7 @@ data = [
                             "postalCode": "620009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29003,7 +29003,7 @@ data = [
                             "postalCode": "620009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29020,7 +29020,7 @@ data = [
                             "postalCode": "620009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -29037,7 +29037,7 @@ data = [
                             "postalCode": "620009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -29056,7 +29056,7 @@ data = [
                             "postalCode": "620009",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -29073,7 +29073,7 @@ data = [
                             "postalCode": "636005",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29090,7 +29090,7 @@ data = [
                             "postalCode": "636005",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29107,7 +29107,7 @@ data = [
                             "postalCode": "636005",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29124,7 +29124,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29141,7 +29141,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -29158,7 +29158,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29175,7 +29175,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -29187,7 +29187,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -29207,8 +29207,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -29234,7 +29234,7 @@ data = [
                         "stateOrProvinceCode": "HR",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -29307,7 +29307,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -29334,7 +29334,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -29342,7 +29342,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -29350,7 +29350,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -29399,7 +29399,7 @@ data = [
                             "postalCode": "122002",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -29416,7 +29416,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -29433,7 +29433,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -29450,7 +29450,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29467,7 +29467,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29484,7 +29484,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29501,7 +29501,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29518,7 +29518,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29535,7 +29535,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -29552,7 +29552,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -29564,7 +29564,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -29584,8 +29584,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -29611,7 +29611,7 @@ data = [
                         "stateOrProvinceCode": "DL",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -29678,7 +29678,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -29705,7 +29705,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -29713,7 +29713,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -29721,7 +29721,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -29770,7 +29770,7 @@ data = [
                             "postalCode": "110060",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -29787,7 +29787,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -29804,7 +29804,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -29821,7 +29821,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -29838,7 +29838,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -29855,7 +29855,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29872,7 +29872,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29889,7 +29889,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29906,7 +29906,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29923,7 +29923,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29940,7 +29940,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29957,7 +29957,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -29974,7 +29974,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -29991,7 +29991,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -30003,7 +30003,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -30023,8 +30023,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -30050,7 +30050,7 @@ data = [
                         "stateOrProvinceCode": "KL",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -30117,7 +30117,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -30144,7 +30144,7 @@ data = [
                     "stateOrProvinceCode": "KL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -30152,7 +30152,7 @@ data = [
                     "stateOrProvinceCode": "KL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -30160,7 +30160,7 @@ data = [
                     "stateOrProvinceCode": "KL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -30205,7 +30205,7 @@ data = [
                             "postalCode": "673004",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -30224,7 +30224,7 @@ data = [
                             "postalCode": "673002",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -30241,7 +30241,7 @@ data = [
                             "postalCode": "673002",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -30258,7 +30258,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -30275,7 +30275,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -30292,7 +30292,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -30309,7 +30309,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -30321,7 +30321,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -30341,8 +30341,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -30368,7 +30368,7 @@ data = [
                         "stateOrProvinceCode": "MP",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -30435,7 +30435,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -30462,7 +30462,7 @@ data = [
                     "stateOrProvinceCode": "MP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -30470,7 +30470,7 @@ data = [
                     "stateOrProvinceCode": "MP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -30478,7 +30478,7 @@ data = [
                     "stateOrProvinceCode": "MP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -30527,7 +30527,7 @@ data = [
                             "postalCode": "452016",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -30544,7 +30544,7 @@ data = [
                             "postalCode": "452001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -30561,7 +30561,7 @@ data = [
                             "postalCode": "452001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -30578,7 +30578,7 @@ data = [
                             "postalCode": "453771",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -30595,7 +30595,7 @@ data = [
                             "postalCode": "453771",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -30612,7 +30612,7 @@ data = [
                             "postalCode": "453771",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -30629,7 +30629,7 @@ data = [
                             "postalCode": "453771",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -30646,7 +30646,7 @@ data = [
                             "postalCode": "453771",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -30663,7 +30663,7 @@ data = [
                             "postalCode": "453771",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -30680,7 +30680,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -30697,7 +30697,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -30714,7 +30714,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -30731,7 +30731,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -30749,7 +30749,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -30766,7 +30766,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -30778,7 +30778,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -30798,8 +30798,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -30825,7 +30825,7 @@ data = [
                         "stateOrProvinceCode": "HR",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -30897,7 +30897,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -30924,7 +30924,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -30932,7 +30932,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -30940,7 +30940,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -30989,7 +30989,7 @@ data = [
                             "postalCode": "122002",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -31006,7 +31006,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -31023,7 +31023,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -31040,7 +31040,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -31057,7 +31057,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -31074,7 +31074,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -31091,7 +31091,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -31108,7 +31108,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -31125,7 +31125,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -31142,7 +31142,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -31154,7 +31154,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -31174,8 +31174,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -31201,7 +31201,7 @@ data = [
                         "stateOrProvinceCode": "CT",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -31286,7 +31286,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -31313,7 +31313,7 @@ data = [
                     "stateOrProvinceCode": "CT",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -31321,7 +31321,7 @@ data = [
                     "stateOrProvinceCode": "CT",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -31329,7 +31329,7 @@ data = [
                     "stateOrProvinceCode": "CT",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -31376,7 +31376,7 @@ data = [
                             "postalCode": "490023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -31393,7 +31393,7 @@ data = [
                             "postalCode": "490001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -31410,7 +31410,7 @@ data = [
                             "postalCode": "490001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -31427,7 +31427,7 @@ data = [
                             "postalCode": "490001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -31444,7 +31444,7 @@ data = [
                             "postalCode": "490001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -31461,7 +31461,7 @@ data = [
                             "postalCode": "492001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -31478,7 +31478,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -31495,7 +31495,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -31512,7 +31512,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -31529,7 +31529,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -31546,7 +31546,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -31563,7 +31563,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -31580,7 +31580,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -31592,7 +31592,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -31612,8 +31612,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -31639,7 +31639,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -31706,7 +31706,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -31733,7 +31733,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -31741,7 +31741,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -31749,7 +31749,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -31794,7 +31794,7 @@ data = [
                             "postalCode": "400086",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -31811,7 +31811,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -31828,7 +31828,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -31845,7 +31845,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -31862,7 +31862,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -31879,7 +31879,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -31896,7 +31896,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -31913,7 +31913,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -31930,7 +31930,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -31942,7 +31942,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -31962,8 +31962,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -31989,7 +31989,7 @@ data = [
                         "stateOrProvinceCode": "HR",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -32056,7 +32056,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -32083,7 +32083,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -32091,7 +32091,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -32099,7 +32099,7 @@ data = [
                     "stateOrProvinceCode": "HR",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -32148,7 +32148,7 @@ data = [
                             "postalCode": "122002",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -32165,7 +32165,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -32182,7 +32182,7 @@ data = [
                             "postalCode": "122050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -32199,7 +32199,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -32216,7 +32216,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -32233,7 +32233,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -32250,7 +32250,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -32267,7 +32267,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -32284,7 +32284,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -32301,7 +32301,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -32313,7 +32313,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -32333,8 +32333,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -32360,7 +32360,7 @@ data = [
                         "stateOrProvinceCode": "TS",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -32427,7 +32427,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -32454,7 +32454,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -32462,7 +32462,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -32470,7 +32470,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -32515,7 +32515,7 @@ data = [
                             "postalCode": "500039",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -32532,7 +32532,7 @@ data = [
                             "postalCode": "500060",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -32549,7 +32549,7 @@ data = [
                             "postalCode": "500039",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -32566,7 +32566,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -32583,7 +32583,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -32600,7 +32600,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -32617,7 +32617,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -32634,7 +32634,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -32651,7 +32651,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -32663,7 +32663,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -32683,8 +32683,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -32710,7 +32710,7 @@ data = [
                         "stateOrProvinceCode": "KA",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -32778,7 +32778,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -32805,7 +32805,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -32813,7 +32813,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -32821,7 +32821,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -32866,7 +32866,7 @@ data = [
                             "postalCode": "570004",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -32883,7 +32883,7 @@ data = [
                             "postalCode": "570018",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -32900,7 +32900,7 @@ data = [
                             "postalCode": "570018",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -32917,7 +32917,7 @@ data = [
                             "postalCode": "570018",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -32934,7 +32934,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -32951,7 +32951,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -32968,7 +32968,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -32985,7 +32985,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -32997,7 +32997,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -33017,8 +33017,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -33044,7 +33044,7 @@ data = [
                         "stateOrProvinceCode": "AP",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -33111,7 +33111,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -33138,7 +33138,7 @@ data = [
                     "stateOrProvinceCode": "AP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -33146,7 +33146,7 @@ data = [
                     "stateOrProvinceCode": "AP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -33154,7 +33154,7 @@ data = [
                     "stateOrProvinceCode": "AP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -33203,7 +33203,7 @@ data = [
                             "postalCode": "530017",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -33220,7 +33220,7 @@ data = [
                             "postalCode": "530016",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -33239,7 +33239,7 @@ data = [
                             "postalCode": "530016",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -33256,7 +33256,7 @@ data = [
                             "postalCode": "530016",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -33273,7 +33273,7 @@ data = [
                             "postalCode": "520001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -33290,7 +33290,7 @@ data = [
                             "postalCode": "520001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -33307,7 +33307,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -33324,7 +33324,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -33341,7 +33341,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -33358,7 +33358,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -33375,7 +33375,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -33392,7 +33392,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -33404,7 +33404,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -33424,8 +33424,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -33451,7 +33451,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -33518,7 +33518,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -33545,7 +33545,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -33553,7 +33553,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -33561,7 +33561,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -33610,7 +33610,7 @@ data = [
                             "postalCode": "400097",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -33627,7 +33627,7 @@ data = [
                             "postalCode": "400103",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -33644,7 +33644,7 @@ data = [
                             "postalCode": "400103",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -33663,7 +33663,7 @@ data = [
                             "postalCode": "400103",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -33682,7 +33682,7 @@ data = [
                             "postalCode": "400103",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -33699,7 +33699,7 @@ data = [
                             "postalCode": "400103",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -33716,7 +33716,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -33733,7 +33733,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -33750,7 +33750,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -33767,7 +33767,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -33784,7 +33784,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -33801,7 +33801,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -33818,7 +33818,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -33830,7 +33830,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -33850,8 +33850,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -33877,7 +33877,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": [
                         {
@@ -33963,7 +33963,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -33990,7 +33990,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -33998,7 +33998,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -34006,7 +34006,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -34057,7 +34057,7 @@ data = [
                             "postalCode": "440010",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -34074,7 +34074,7 @@ data = [
                             "postalCode": "440027",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -34091,7 +34091,7 @@ data = [
                             "postalCode": "440027",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -34108,7 +34108,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -34125,7 +34125,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -34142,7 +34142,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -34159,7 +34159,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -34176,7 +34176,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -34193,7 +34193,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -34210,7 +34210,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -34227,7 +34227,7 @@ data = [
                             "postalCode": "560048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -34239,7 +34239,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -34259,8 +34259,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -34286,7 +34286,7 @@ data = [
                         "stateOrProvinceCode": "GJ",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -34360,7 +34360,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -34388,7 +34388,7 @@ data = [
                     "stateOrProvinceCode": "GJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -34396,7 +34396,7 @@ data = [
                     "stateOrProvinceCode": "GJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -34404,7 +34404,7 @@ data = [
                     "stateOrProvinceCode": "GJ",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -34453,7 +34453,7 @@ data = [
                             "postalCode": "395007",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -34470,7 +34470,7 @@ data = [
                             "postalCode": "395010",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -34487,7 +34487,7 @@ data = [
                             "postalCode": "395010",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -34504,7 +34504,7 @@ data = [
                             "postalCode": "395010",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -34521,7 +34521,7 @@ data = [
                             "postalCode": "395010",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -34538,7 +34538,7 @@ data = [
                             "postalCode": "396191",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -34555,7 +34555,7 @@ data = [
                             "postalCode": "396191",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -34572,7 +34572,7 @@ data = [
                             "postalCode": "396191",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -34589,7 +34589,7 @@ data = [
                             "postalCode": "396191",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -34606,7 +34606,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -34623,7 +34623,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -34640,7 +34640,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -34657,7 +34657,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -34674,7 +34674,7 @@ data = [
                             "postalCode": "400012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -34693,7 +34693,7 @@ data = [
                             "postalCode": "400012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -34705,7 +34705,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -34725,8 +34725,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -34752,7 +34752,7 @@ data = [
                         "stateOrProvinceCode": "TS",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -34826,7 +34826,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -34854,7 +34854,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -34862,7 +34862,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -34870,7 +34870,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -34919,7 +34919,7 @@ data = [
                             "postalCode": "500034",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -34936,7 +34936,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -34953,7 +34953,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -34972,7 +34972,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -34989,7 +34989,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -35006,7 +35006,7 @@ data = [
                             "postalCode": "500048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -35023,7 +35023,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -35040,7 +35040,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -35057,7 +35057,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -35074,7 +35074,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -35091,7 +35091,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -35108,7 +35108,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -35125,7 +35125,7 @@ data = [
                             "postalCode": "400012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -35144,7 +35144,7 @@ data = [
                             "postalCode": "400012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -35156,7 +35156,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -35176,8 +35176,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -35203,7 +35203,7 @@ data = [
                         "stateOrProvinceCode": "KA",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -35277,7 +35277,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -35309,7 +35309,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -35317,7 +35317,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -35325,7 +35325,7 @@ data = [
                     "stateOrProvinceCode": "KA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -35374,7 +35374,7 @@ data = [
                             "postalCode": "560038",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -35391,7 +35391,7 @@ data = [
                             "postalCode": "560092",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -35410,7 +35410,7 @@ data = [
                             "postalCode": "560092",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -35427,7 +35427,7 @@ data = [
                             "postalCode": "560092",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -35446,7 +35446,7 @@ data = [
                             "postalCode": "560092",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -35463,7 +35463,7 @@ data = [
                             "postalCode": "560092",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -35480,7 +35480,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -35497,7 +35497,7 @@ data = [
                             "postalCode": "562123",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -35514,7 +35514,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -35531,7 +35531,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -35548,7 +35548,7 @@ data = [
                             "postalCode": "400012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -35567,7 +35567,7 @@ data = [
                             "postalCode": "400012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -35579,7 +35579,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -35599,8 +35599,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -35626,7 +35626,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -35695,7 +35695,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -35727,7 +35727,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -35735,7 +35735,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -35743,7 +35743,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -35792,7 +35792,7 @@ data = [
                             "postalCode": "400088",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -35809,7 +35809,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -35826,7 +35826,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -35845,7 +35845,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -35862,7 +35862,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -35879,7 +35879,7 @@ data = [
                             "postalCode": "400078",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -35896,7 +35896,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -35913,7 +35913,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -35930,7 +35930,7 @@ data = [
                             "postalCode": "400012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -35947,7 +35947,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -35966,7 +35966,7 @@ data = [
                             "postalCode": "400012",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -35978,7 +35978,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -35998,8 +35998,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -36025,7 +36025,7 @@ data = [
                         "stateOrProvinceCode": "TN",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -36093,7 +36093,7 @@ data = [
                     "stateOrProvinceCode": "GA",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -36120,7 +36120,7 @@ data = [
                     "stateOrProvinceCode": "TN",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -36128,7 +36128,7 @@ data = [
                     "stateOrProvinceCode": "TN",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -36136,7 +36136,7 @@ data = [
                     "stateOrProvinceCode": "TN",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -36185,7 +36185,7 @@ data = [
                             "postalCode": "600050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -36202,7 +36202,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -36219,7 +36219,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -36238,7 +36238,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -36255,7 +36255,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -36272,7 +36272,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -36289,7 +36289,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -36306,7 +36306,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -36323,7 +36323,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -36340,7 +36340,7 @@ data = [
                             "postalCode": "410218",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -36357,7 +36357,7 @@ data = [
                             "postalCode": "403722",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -36374,7 +36374,7 @@ data = [
                             "postalCode": "403722",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -36386,7 +36386,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -36406,8 +36406,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -36433,7 +36433,7 @@ data = [
                         "stateOrProvinceCode": "UP",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -36501,7 +36501,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -36528,7 +36528,7 @@ data = [
                     "stateOrProvinceCode": "UP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -36536,7 +36536,7 @@ data = [
                     "stateOrProvinceCode": "UP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -36544,7 +36544,7 @@ data = [
                     "stateOrProvinceCode": "UP",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -36593,7 +36593,7 @@ data = [
                             "postalCode": "201301",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -36612,7 +36612,7 @@ data = [
                             "postalCode": "201301",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -36631,7 +36631,7 @@ data = [
                             "postalCode": "201301",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -36650,7 +36650,7 @@ data = [
                             "postalCode": "201301",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -36667,7 +36667,7 @@ data = [
                             "postalCode": "201301",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -36684,7 +36684,7 @@ data = [
                             "postalCode": "201301",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -36703,7 +36703,7 @@ data = [
                             "postalCode": "201301",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -36720,7 +36720,7 @@ data = [
                             "postalCode": "201301",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -36739,7 +36739,7 @@ data = [
                             "postalCode": "201301",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -36756,7 +36756,7 @@ data = [
                             "postalCode": "201301",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -36773,7 +36773,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -36790,7 +36790,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -36807,7 +36807,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -36824,7 +36824,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -36841,7 +36841,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -36858,7 +36858,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -36877,7 +36877,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -36889,7 +36889,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -36909,8 +36909,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -36936,7 +36936,7 @@ data = [
                         "stateOrProvinceCode": "TS",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -37004,7 +37004,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -37035,7 +37035,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -37043,7 +37043,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -37051,7 +37051,7 @@ data = [
                     "stateOrProvinceCode": "TS",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "IN_BOND_OR_CAGE",
                 "deliveryLocationDescription": "In bond/cage",
@@ -37096,7 +37096,7 @@ data = [
                             "postalCode": "500050",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -37115,7 +37115,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -37132,7 +37132,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -37151,7 +37151,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -37170,7 +37170,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -37187,7 +37187,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -37204,7 +37204,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -37221,7 +37221,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -37238,7 +37238,7 @@ data = [
                             "postalCode": "500014",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -37255,7 +37255,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -37272,7 +37272,7 @@ data = [
                             "postalCode": "440023",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -37289,7 +37289,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -37306,7 +37306,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -37323,7 +37323,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -37342,7 +37342,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -37354,7 +37354,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -37374,8 +37374,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -37401,7 +37401,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -37475,7 +37475,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -37503,7 +37503,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -37511,7 +37511,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -37519,7 +37519,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -37568,7 +37568,7 @@ data = [
                             "postalCode": "411048",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -37585,7 +37585,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -37602,7 +37602,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -37619,7 +37619,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -37638,7 +37638,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -37655,7 +37655,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -37672,7 +37672,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -37689,7 +37689,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -37706,7 +37706,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -37723,7 +37723,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -37740,7 +37740,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -37757,7 +37757,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -37774,7 +37774,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -37793,7 +37793,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -37805,7 +37805,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -37825,8 +37825,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -37852,7 +37852,7 @@ data = [
                         "stateOrProvinceCode": "TN",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -37927,7 +37927,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -37958,7 +37958,7 @@ data = [
                     "stateOrProvinceCode": "TN",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -37966,7 +37966,7 @@ data = [
                     "stateOrProvinceCode": "TN",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -37974,7 +37974,7 @@ data = [
                     "stateOrProvinceCode": "TN",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -38019,7 +38019,7 @@ data = [
                             "postalCode": "600112",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -38036,7 +38036,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -38055,7 +38055,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38072,7 +38072,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38091,7 +38091,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -38108,7 +38108,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38127,7 +38127,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -38144,7 +38144,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38161,7 +38161,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -38178,7 +38178,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38195,7 +38195,7 @@ data = [
                             "postalCode": "600056",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38212,7 +38212,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38229,7 +38229,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38246,7 +38246,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38263,7 +38263,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -38282,7 +38282,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -38294,7 +38294,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -38314,8 +38314,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -38341,7 +38341,7 @@ data = [
                         "stateOrProvinceCode": "JK",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -38409,7 +38409,7 @@ data = [
                     "stateOrProvinceCode": "DL",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -38436,7 +38436,7 @@ data = [
                     "stateOrProvinceCode": "JK",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -38444,7 +38444,7 @@ data = [
                     "stateOrProvinceCode": "JK",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -38452,7 +38452,7 @@ data = [
                     "stateOrProvinceCode": "JK",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RECEPTIONIST_OR_FRONT_DESK",
                 "deliveryLocationDescription": "Receptionist/Front Desk",
@@ -38497,7 +38497,7 @@ data = [
                             "postalCode": "181205",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -38516,7 +38516,7 @@ data = [
                             "postalCode": "180006",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -38535,7 +38535,7 @@ data = [
                             "postalCode": "180006",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -38554,7 +38554,7 @@ data = [
                             "postalCode": "180006",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38571,7 +38571,7 @@ data = [
                             "postalCode": "180006",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -38588,7 +38588,7 @@ data = [
                             "postalCode": "133001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38605,7 +38605,7 @@ data = [
                             "postalCode": "133001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38622,7 +38622,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38639,7 +38639,7 @@ data = [
                             "postalCode": "122001",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38656,7 +38656,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -38675,7 +38675,7 @@ data = [
                             "postalCode": "110064",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -38687,7 +38687,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -38707,8 +38707,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -38734,7 +38734,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -38807,7 +38807,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -38834,7 +38834,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -38842,7 +38842,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -38850,7 +38850,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -38899,7 +38899,7 @@ data = [
                             "postalCode": "411045",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -38916,7 +38916,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -38933,7 +38933,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38950,7 +38950,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -38967,7 +38967,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -38984,7 +38984,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -39001,7 +39001,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -39018,7 +39018,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -39035,7 +39035,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -39054,7 +39054,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -39066,7 +39066,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -39086,8 +39086,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -39113,7 +39113,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -39186,7 +39186,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -39213,7 +39213,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -39221,7 +39221,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -39229,7 +39229,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -39278,7 +39278,7 @@ data = [
                             "postalCode": "411045",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -39295,7 +39295,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -39312,7 +39312,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -39329,7 +39329,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -39346,7 +39346,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -39363,7 +39363,7 @@ data = [
                             "postalCode": "412106",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -39380,7 +39380,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -39397,7 +39397,7 @@ data = [
                             "postalCode": "421302",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -39414,7 +39414,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -39433,7 +39433,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -39445,7 +39445,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
@@ -39465,8 +39465,8 @@ data = [
                 "messageParameters": []
             }
         ],
-        "duplicateWaybill": false,
-        "moreData": false,
+        "duplicateWaybill": "false",
+        "moreData": "false",
         "trackDetailsCount": 0,
         "trackDetails": [
             {
@@ -39492,7 +39492,7 @@ data = [
                         "stateOrProvinceCode": "MH",
                         "countryCode": "IN",
                         "countryName": "India",
-                        "residential": false
+                        "residential": "false"
                     },
                     "ancillaryDetails": []
                 },
@@ -39566,7 +39566,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "datesOrTimes": [
                     {
@@ -39598,7 +39598,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "destinationAddress": {
                     "streetLines": [],
@@ -39606,7 +39606,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "actualDeliveryAddress": {
                     "streetLines": [],
@@ -39614,7 +39614,7 @@ data = [
                     "stateOrProvinceCode": "MH",
                     "countryCode": "IN",
                     "countryName": "India",
-                    "residential": false
+                    "residential": "false"
                 },
                 "deliveryLocationType": "RESIDENCE",
                 "deliveryLocationDescription": "Residence",
@@ -39663,7 +39663,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -39680,7 +39680,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -39697,7 +39697,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -39716,7 +39716,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DELIVERY_LOCATION"
                     },
@@ -39733,7 +39733,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "VEHICLE"
                     },
@@ -39750,7 +39750,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "DESTINATION_FEDEX_FACILITY"
                     },
@@ -39767,7 +39767,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -39784,7 +39784,7 @@ data = [
                             "postalCode": "400059",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -39801,7 +39801,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "FEDEX_FACILITY"
                     },
@@ -39818,7 +39818,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "ORIGIN_FEDEX_FACILITY"
                     },
@@ -39835,7 +39835,7 @@ data = [
                             "postalCode": "411003",
                             "countryCode": "IN",
                             "countryName": "India",
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "PICKUP_LOCATION"
                     },
@@ -39847,7 +39847,7 @@ data = [
                         "eventDescription": "Shipment information sent to FedEx",
                         "address": {
                             "streetLines": [],
-                            "residential": false
+                            "residential": "false"
                         },
                         "arrivalLocation": "CUSTOMER"
                     }
